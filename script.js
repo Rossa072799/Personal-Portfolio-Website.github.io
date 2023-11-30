@@ -48,14 +48,14 @@ document.addEventListener("DOMContentLoaded", function () {
             description: 'Culinary Delights is an online recipe book that allows users to explore and contribute their favorite recipes. The platform features a dynamic display of recipes with detailed information on ingredients and instructions. Users can also add new recipes to share with the community, creating a diverse collection of culinary creations.',
             image: 'rr.png', 
             technologiesUsed: ['HTML5', 'CSS3','JavaScript','Responsive Design (Grid Layout)'],
-            link: 'https://rossa072799.github.io/Personal-Portfolio-Website.github.io/project%202/OnlineRecipeBook.html'
+            link: 'https://rossa072799.github.io/Personal-Portfolio-Website.github.io/project2/OnlineRecipeBook.html'
         },
         {
             title: 'Project 3: Personal To-Do List',
             description: 'The Personal To-Do List is a simple and efficient task management tool designed to help users organize their daily activities. Users can easily add tasks with due dates, mark them as completed, and track their progress. The interface provides a clean and intuitive design, making it convenient for users to manage their to-do lists effectively.',
             image: 'lol.png', 
             technologiesUsed: ['HTML5', 'CSS3','JavaScript','Responsive Design (Flexbox)'],
-            link: 'https://rossa072799.github.io/Personal-Portfolio-Website.github.io/project%203/PTDLA.html'
+            link: 'https://rossa072799.github.io/Personal-Portfolio-Website.github.io/project3/PTDLA.html'
         }
     ];
 
